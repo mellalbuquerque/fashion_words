@@ -23,7 +23,8 @@ Criado para facilitar projetos de NLP, análise de tendências e processamento d
 Para instalar o **Fashion Words**, execute:
 
 ```bash
-pip install fashion_words
+!pip install --upgrade fashion_words
+from fashion_words import fashion_words
 
 
 
